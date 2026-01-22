@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <img src="https://www.autodesk.com/blogs/autocad/wp-content/uploads/sites/35/2020/04/AutoCAD-Express-Tools-Text-Feature_vnotxf.jpg" width="1080" alt="AutoCAD Express Tools Screenshot"/>
+  <img src="https://i.ytimg.com/vi/zB3Y6HYhZ9M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAmI18yn340YaGWZqt0N1pSoj5F9g" width="1080" alt="AutoCAD Express Tools Screenshot"/>
 </div>
 
 <br>
